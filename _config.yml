@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C Blog"
+title                    : "개발자 꿈나무의 일기"
 title_separator          : "-"
 subtitle                 : "개발자가 되기위한 컴공의 일기"
 name                     : "개발자 꿈나무"
