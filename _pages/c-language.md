@@ -1,6 +1,6 @@
 ---
 title: "C언어"
-permalink: /categories/c-language/
+permalink: /categories/c/
 layout: category
 author_profile: true
 taxonomy: C언어
