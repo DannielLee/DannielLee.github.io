@@ -2,5 +2,7 @@
 main:
   - title: "블로그 소개"
     url: https://danniellee.github.io/about/
+  - title: "Categories"
+    url: /categories/
   - title: "About"
     url: /about/
