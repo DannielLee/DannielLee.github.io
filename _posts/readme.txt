@@ -5,8 +5,8 @@ yyyy-mm-dd-파일이름.md 의 형식을 지켜야 포스트가 된다.
 따라서 파일이름은 yymmddno의 순을 지켜 포스팅하는것으로 한다.
 
 ---
-title: " "
-excerpt: " "
+title: " " //제목
+excerpt: " " //부제 
 categories:
   - C언어
 tags:
