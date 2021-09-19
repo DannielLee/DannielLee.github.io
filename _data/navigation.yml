@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "블로그 소개"
-    url: https://danniellee.github.io/about/
+  - title: "Home"
+    url: https://danniellee.github.io/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
