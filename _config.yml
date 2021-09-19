@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "SOUTH KOREA"
-title                    : "개발자 꿈나무의 일기"
+locale                   : "ko-KR"
+title                    : "C Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "개발자가 되기위한 컴공의 일기"
 name                     : "개발자 꿈나무"
-description              : "Diary of my study"
+description              : "자료구조 / 알고리즘 /과제를 저장하는 블로그"
 url                      : "https://danniellee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "danniellee/danniellee.github.com"
 teaser                   : "/assets/images/logo.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/logo.png"
+masthead_title           : "개발자 꿈나무의 일기"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "개발자 꿈나무의 일기"
+  name             : "개발자 꿈나무"
   avatar           : "/assets/images/logo.png"
-  bio              : "꿈나무의 코딩 일기장"
+  bio              : "자료구조 / 알고리즘 /과제를 저장하는 블로그"
   location         : "South Korea"
-  email            :
+  email            : "kerry6773@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "kerry6773@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/danniellee"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/danniellee"
+      url: "https://github.com/danniellee"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
