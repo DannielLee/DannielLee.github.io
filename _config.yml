@@ -20,7 +20,7 @@ title                    : "개발자 꿈나무의 일기"
 title_separator          : "-"
 subtitle                 : # "컴공생의 일기"
 name                     : "개발자 꿈나무"
-description              : "자료구조 / 알고리즘 /과제"
+description              : "자료구조 / 알고리즘 /과제를 저장하는 블로그"
 url                      : "https://danniellee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "danniellee/danniellee.github.com"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "개발자 꿈나무"
   avatar           : "/assets/images/logo.png"
-  bio              : "자료구조 / 알고리즘 /과제를 저장하는 블로그"
+  bio              : "자료구조 / 알고리즘 / 과제"
   location         : "South Korea"
   email            : "kerry6773@naver.com"
   links:
