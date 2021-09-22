@@ -1,0 +1,14 @@
+{
+    "name": "\uac1c\ubc1c\uc790 \uafc8\ub098\ubb34",
+    "short_name": "\uac1c\ubc1c\uc790 \uafc8\ub098\ubb34",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#efefef",
+    "background_color": "#efefef",
+    "display": "standalone"
+}
