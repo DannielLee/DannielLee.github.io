@@ -28,7 +28,7 @@ teaser                   : "/assets/images/logo.png"
 logo                     : # "/assets/images/logo.png"
 masthead_title           : "개발자 꿈나무의 일기"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300
 comments:
   provider               : "disqus"
   disqus:
